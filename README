@@ -1,0 +1,14 @@
+UserApproved
+============
+
+UserApproved is a rails plugin for adding item-item collaborative filtering to
+ActiveRecord models.
+
+
+Example
+=======
+
+Nothing yet.  The code needs to get a little further along first.
+
+
+Copyright (c) 2008 Louis J. Scoras, released under the MIT license
