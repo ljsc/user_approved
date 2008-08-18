@@ -18,7 +18,7 @@ class Vector
   # Calculates the Euclidean norm for the vector.
   #
   def magnitude
-    map {|e| e ** 2}.inject(0){|s,e| s+e} ** 0.5    
+    dot_product(self) ** 0.5
   end
   
   # Calculates the Dot Product of two vectors.
